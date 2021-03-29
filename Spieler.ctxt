@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Spieler
+comment1.params=n\ sl
+comment1.target=Spieler(java.lang.String,\ Spielleiter)
+comment2.params=Einsatz
+comment2.target=void\ EinsatzSetzen(int)
+comment3.params=
+comment3.target=void\ KontoStand()
+comment4.params=
+comment4.target=void\ KarteZiehen()
+comment5.params=
+comment5.target=void\ Stand()
+numComments=6
